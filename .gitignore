@@ -1,0 +1,5 @@
+.idea/
+.git/
+venv/
+__pycache__/
+.DS_Store
